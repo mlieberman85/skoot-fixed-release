@@ -1,0 +1,18 @@
+contribution-policy:
+  accepts-automated-pull-requests: true
+  accepts-pull-requests: true
+distribution-points: []
+header:
+  expiration-date: 2025-02-18T02:11:14.521941049Z
+  last-reviewed: 2024-02-19T02:11:14.521943874Z
+  last-updated: 2024-02-19T02:11:14.521944004Z
+  license: https://github.com/mlieberman85/skoot-fixed-release/blob/main/LICENSE
+  project-url: https://github.com/mlieberman85/skoot-fixed-release
+  schema-version: 1.0.0
+project-lifecycle:
+  bug-fixes-only: false
+  status: active
+security-contacts: []
+vulnerability-reporting:
+  accepts-vulnerability-reports: true
+  security-policy: https://github.com/mlieberman85/skoot-fixed-release/blob/main/SECURITY.md
